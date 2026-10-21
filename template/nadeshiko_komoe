@@ -190,11 +190,11 @@
 <div class="wrapper">
     <div class="box">
         <img class="bg" alt="" src="https://images3.alphacoders.com/135/thumb-350-1357731.webp" onerror="this.remove()">
-        <div class="message">{{message}}</div>
+        <div class="message">{{gifterName}} tadi donate dan titip pesan : {{message}}</div>
         <span class="next"></span>
     </div>
 
-    <div class="nameplate">{{gifterName}}</div>
+    <div class="nameplate">Nadeshiko</div>
     <div class="amount">{{formattedAmount}}</div>
 
     <div class="mascot">
